@@ -9,33 +9,34 @@
         "beyondcode/laravel-websockets": "^1.12",
         "carlos-meneses/laravel-mpdf": "^2.1",
         "cviebrock/eloquent-sluggable": "^8.0",
+        "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
-        "guzzlehttp/guzzle": "^7.4.1",
-        "intervention/image": "^2.7",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "intervention/image": "^2.5",
         "intervention/imagecache": "^2.5",
         "jantinnerezo/livewire-alert": "^2.1",
-        "laravel/framework": "^8.65",
+        "laravel/framework": "^8.40",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.3",
         "league/omnipay": "^3.2",
-        "livewire/livewire": "2.10.1",
+        "livewire/livewire": "^2.5",
         "mcamara/laravel-localization": "^1.6",
         "mindscms/entrust": "^2.5",
         "mindscms/laravelshoppingcart": "^1.2",
         "nicolaslopezj/searchable": "^1.13",
         "omnipay/paypal": "^3.0",
         "predis/predis": "^1.1",
-        "pusher/pusher-php-server": "5.0",
-        "realrashid/sweet-alert": "^4.1"
+        "pusher/pusher-php-server": "^5.0",
+        "realrashid/sweet-alert": "^4.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
         "laravel/sail": "^1.0.1",
-        "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^5.10",
-        "phpunit/phpunit": "^9.5.10"
+        "mockery/mockery": "^1.4.2",
+        "nunomaduro/collision": "^5.0",
+        "phpunit/phpunit": "^9.3.3"
     },
     "autoload": {
         "psr-4": {
